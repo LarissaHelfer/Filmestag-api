@@ -1,0 +1,28 @@
+{"videos":
+    [
+        {
+            "id": 1,
+            "titulo": "Gato de botas",
+            "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/67/23/20061404.jpg",
+            "link": "https://www.youtube.com/embed/Mmm7x9M2aE4"
+        },
+        {
+            "id": 2,
+            "titulo": "Harry Potter e a Pedra Filosofal",
+            "capa": "https://lh3.googleusercontent.com/-m9D3cOU6sds/X2Dfd37uaPI/AAAAAAAAmWg/9Fhdl_dP8po4ffAAHeunAcoErLeeMfo2gCNcBGAsYHQ/image.png",
+            "link": "https://www.youtube.com/embed/9fIObnIGMlI"
+        },
+        {
+            "id": 3,
+            "titulo": "Velozes e Furiosos 4",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8f/Fast_and_Furious_Poster.jpg/230px-Fast_and_Furious_Poster.jpg",
+            "link": "https://www.youtube.com/embed/a9--AI3ZGaw"
+        },
+        {
+            "id": 4,
+            "titulo": "Avatar: O Caminho da Água",
+            "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/22/05/09/16/16/3197518.jpg",
+            "link": "https://www.youtube.com/embed/x5pZI-DmtrE"
+        }
+    ]
+}
